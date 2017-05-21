@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "a-tale-of-two-cities",
-  "type": "text"
+  "type": "text",
+  "book_id": 421
 }
