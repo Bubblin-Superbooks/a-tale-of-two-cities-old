@@ -1,0 +1,6 @@
+html, body {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://raw.githubusercontent.com/marvindanig/a-tale-of-two-cities/master/cover/front.jpg);
+    background-size: 100% 100%;
+}
